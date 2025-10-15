@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
+import 'package:makkahjourney/utils/app_colors.dart';
 import 'package:makkahjourney/views/Check_list_Screen.dart';
-import 'package:makkahjourney/views/dua_screen.dart';
-import 'package:makkahjourney/views/map_screen.dart';
-import '../utils/app_colors.dart';
-import 'rituals_screen.dart';
+import 'package:makkahjourney/views/Dua_Screen.dart';
+import 'package:makkahjourney/views/Map_Screen.dart';
+import 'package:makkahjourney/views/rituals_screen.dart';
 
 
 class HomeScreen extends StatelessWidget {
