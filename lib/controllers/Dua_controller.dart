@@ -66,6 +66,7 @@ class DuaController {
     ),
 
     // --- Dua for Drinking Zamzam Water ---
+    
     DuaModel(
       title: "Dua When Drinking Zamzam Water",
       arabic:
@@ -149,3 +150,6 @@ class DuaController {
         .toList();
   }
 }
+// 4 kalema
+// subhanallahe walhamdulillahi wala ilaha illallahu wallahu akbar wala khawla wala quwwata illa billahil aliyyil azeem
+// 

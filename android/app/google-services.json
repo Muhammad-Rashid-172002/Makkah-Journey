@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "196853510035",
+    "project_id": "makkah-journey-4eead",
+    "storage_bucket": "makkah-journey-4eead.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196853510035:android:a6fedf3ae2189891db4266",
+        "android_client_info": {
+          "package_name": "com.example.makkahjourney"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWtkTiwP6rFSlSOX6djF-hqMajHhijKuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
